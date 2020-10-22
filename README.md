@@ -18,6 +18,6 @@ This repository contains implementation of the Machine Learning algorithms from 
 
 -[**K-means**](K-means.ipynb)
 
--[**Anomaly Detection**](Anomaly Detection.ipynb)
+-[**Anomaly Detection**](AnomalyDetection.ipynb)
 
 -[**PCA**](PCA.ipynb)
