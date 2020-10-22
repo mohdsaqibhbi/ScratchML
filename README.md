@@ -4,20 +4,20 @@ This repository contains implementation of the Machine Learning algorithms from 
 
 # List of ML Alog implemeneted
 
--[**Linear Regression**](LinearRegression.ipynb)
+- [**Linear Regression**](LinearRegression.ipynb)
 
--[**Logistic Regression**](LogisticRegression.ipynb)
+- [**Logistic Regression**](LogisticRegression.ipynb)
 
--[**SoftMax Regression**](SoftMaxRegression.ipynb)
+- [**SoftMax Regression**](SoftMaxRegression.ipynb)
 
--[**Cross Entropy**](CrossEntropy.ipynb)
+- [**Cross Entropy**](CrossEntropy.ipynb)
 
--[**Shallow Neural Network**](ShallowNeuralNetwork.ipynb)
+- [**Shallow Neural Network**](ShallowNeuralNetwork.ipynb)
 
--[**Deep Neural Network**](DeepNeuralNetwork.ipynb)
+- [**Deep Neural Network**](DeepNeuralNetwork.ipynb)
 
--[**K-means**](K-means.ipynb)
+- [**K-means**](K-means.ipynb)
 
--[**Anomaly Detection**](AnomalyDetection.ipynb)
+- [**Anomaly Detection**](AnomalyDetection.ipynb)
 
--[**PCA**](PCA.ipynb)
+- [**PCA**](PCA.ipynb)
