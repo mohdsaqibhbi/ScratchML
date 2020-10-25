@@ -4,7 +4,7 @@ This repository contains implementation of the Machine Learning algorithms from 
 
 # List of ML Alog implemeneted
 
-- [**Linear Regression**](LinearRegression.ipynb){:target="_blank"}
+- [**Linear Regression**](LinearRegression.ipynb)
 
 - [**Logistic Regression**](LogisticRegression.ipynb)
 
