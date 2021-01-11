@@ -3,7 +3,7 @@
 This repository contains implementation of the Machine Learning algorithms from scratch. The implementation is done in the jupyter-notebook. I tried to make the code as simple as possible for better understanding. This is for learning purpose, for a better understanding of the ML algorithms.
 ![ScratchML](https://github.com/mohdsaqibhbi/ScratchML/blob/master/readme.png)
 
-# List of ML Alog implemeneted
+# List of ML Algos implemeneted
 
 - [**Linear Regression**](LinearRegression.ipynb)
 
